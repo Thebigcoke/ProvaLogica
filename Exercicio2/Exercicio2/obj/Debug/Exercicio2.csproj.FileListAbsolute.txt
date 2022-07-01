@@ -1,0 +1,8 @@
+C:\Users\Samsung\Desktop\Prova de Logica de Programação\Exercicio 2\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\Samsung\Desktop\Prova de Logica de Programação\Exercicio 2\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\Samsung\Desktop\Prova de Logica de Programação\Exercicio 2\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\Samsung\Desktop\Prova de Logica de Programação\Exercicio 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\Prova de Logica de Programação\Exercicio 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samsung\Desktop\Prova de Logica de Programação\Exercicio 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\Prova de Logica de Programação\Exercicio 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\Samsung\Desktop\Prova de Logica de Programação\Exercicio 2\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
